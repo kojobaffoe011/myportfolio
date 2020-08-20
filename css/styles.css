@@ -199,6 +199,11 @@ header {
 }
 
 #contact {
+  background-image: url("../assets/bg5.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  opacity: 0.8;
   background-color: #f4f6fa;
   position: relative;
   padding: 5% 0 0 0;
